@@ -2,6 +2,9 @@
 *.tif
 *.tiff
 
+# Grades PNG geradas pelo abrindo_mapas.ipynb (regeneráveis, não são fonte)
+*_12_meses.png
+
 # Jupyter
 .ipynb_checkpoints/
 
