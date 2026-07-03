@@ -1,0 +1,10 @@
+# Dados raster (grandes, não versionados no GitHub)
+*.tif
+*.tiff
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
